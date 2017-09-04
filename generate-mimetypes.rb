@@ -3,7 +3,7 @@ require 'toml'
 
 xml = MimetypeXML::Generate.toml_file(
   :file      => './custom-mime.toml',
-  :xml_dir   => './.xml',
+  :xml_dir   => '/usr/share/mime/packages',
   :icon_pack => '~/.icons/Mato'
 )
 
