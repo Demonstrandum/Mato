@@ -1,6 +1,10 @@
 # Mato
 For general information and previews, visit [flipflop97.github.io/Mato](https://flipflop97.github.io/Mato/).
 
+## Dependencies
+ - Ruby Programming Language (rubygems included)
+ - Gnome DE
+
 ## Request icons
 If you want to request an icon, create an issue for it. Please read [the guidelines](CONTRIBUTING.md) before doing so.
 

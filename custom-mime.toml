@@ -11,19 +11,24 @@ comment      = "Elixir File" # Default language
 comment_lang = [ ["no", "Elixir Fil"], ["la", "Ordo Elixir"] ] # etc. (opt.)
 
 icon = "mimetypes/application-x-elixir.svg"
-size = 48 # I don't really know
+size = 48 # Set to anything when using SVGs but required
 
 
 
-  [x-application-crystal]
-  type = "application/x-crystal"
-  pattern =  ["*.cr"]
-  comment = "Crystal File"
-  icon = "mimetypes/application-x-crystal.svg"
-  size = 48
+[x-application-crystal]
+type = "application/x-crystal"
+pattern =  ["*.cr"]
+comment = "Crystal File"
+icon = "mimetypes/application-x-crystal.svg"
+size = 48
 
-  # That simple to add new mimetypes, just make the icon in the
-  # path specified in the `icon` variable. 
-  # e.g. 'mimetypes/appliaction-x-myfile.svg'
+# That simple to add new mimetypes, just make the icon in the
+# path specified in the `icon` variable. 
+# e.g. 'mimetypes/appliaction-x-myfile.svg'
 
-
+[x-application-toml]
+type = "application/x-crystal"
+pattern = ["*.cr"]
+comment = "TOML File"
+icon = "mimetype/application-x-toml.svg"
+size = 128 # Does not apply to SVGs
