@@ -13,9 +13,10 @@ cp -r ./ ~/.icons/Mato/
 ## and update the mimetype database
 printf "Password: "
 PASS="$(read -s)"
+echo
 echo "$PASS" | sudo -s chmod 777 /usr/share/mime/packages
 PATH="$(ruby -e 'print Gem.user_dir')/bin:$PATH"
-gem install mimetype-xml
+gem install mimetype-xml --no-ri --no-rdoc
 ruby generate-mimetypes.rb 
 echo "$PASS" | sudo -s update-mime-database /usr/share/mime
 

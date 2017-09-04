@@ -28,7 +28,7 @@ size = 48
 
 [x-application-toml]
 type = "application/x-toml"
-pattern = ["*.cr"]
+pattern = ["*.toml"]
 comment = "TOML File"
 icon = "mimetype/application-x-toml.svg"
 size = 128 # Does not apply to SVGs
