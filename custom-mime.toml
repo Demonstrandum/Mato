@@ -1,0 +1,30 @@
+## CUSTOM MIMETYPES TOML CONFIG FILE ##
+# Optional variables ard marked with `(opt.)` in a commant at the 
+# end of the line
+
+[x-application-elixir]
+
+type    = "application/x-elixir"
+pattern = ["*.ex", "*.exs"] # Always in an array
+                            # (even if only one pattern, e.g. ["*.ext"])
+comment      = "Elixir File" # Default language
+comment_lang = [ ["no", "Elixir Fil"], ["la", "Ordo Elixir"] ] # etc. (opt.)
+
+icon = "mimetypes/application-x-elixir.svg"
+size = 48 # I don't really know
+
+xml_file = "elixir-file-mimetype.xml" # (opt.), not useful...
+
+
+[x-application-crystal]
+type = "application/x-crystal"
+pattern =  ["*.cr"]
+comment = "Crystal File"
+icon = "mimetypes/application-x-crystal.svg"
+size = 48
+
+# That simple to add new mimetypes, just make the icon in the
+# path specified in the `icon` variable. 
+# e.g. 'mimetypes/appliaction-x-myfile.svg'
+
+
