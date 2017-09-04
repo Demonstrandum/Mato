@@ -27,7 +27,7 @@ size = 48
 # e.g. 'mimetypes/appliaction-x-myfile.svg'
 
 [x-application-toml]
-type = "application/x-crystal"
+type = "application/x-toml"
 pattern = ["*.cr"]
 comment = "TOML File"
 icon = "mimetype/application-x-toml.svg"
