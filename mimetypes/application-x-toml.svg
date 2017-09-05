@@ -13,9 +13,9 @@
    height="48"
    id="svg4152"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    viewBox="0 0 48 48"
-   sodipodi:docname="text-x-generic.svg">
+   sodipodi:docname="application-x-toml.svg">
   <defs
      id="defs4154">
     <filter
@@ -178,7 +178,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.098901"
-     inkscape:cx="-8.5369881"
+     inkscape:cx="20.927523"
      inkscape:cy="26.532698"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -186,11 +186,11 @@
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1259"
+     inkscape:window-height="944"
+     inkscape:window-x="1362"
+     inkscape:window-y="902"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid4700"
@@ -242,5 +242,31 @@
        rx="2"
        ry="2"
        clip-path="url(#clipPath4268)" />
+    <g
+       aria-label="TOML"
+       transform="matrix(0.87644851,0,0,0.90699337,3.1309686,-6.1218246)"
+       style="font-style:normal;font-weight:normal;font-size:46.86396027px;line-height:29.28997993px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.17159915"
+       id="text869">
+      <path
+         d="m 15.0274,7.8743477 v -5.534943 h 1.937694 v -1.154272 h -5.270712 v 1.154272 h 1.933058 v 5.534943 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.49377155px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';fill:#333333;fill-opacity:1;stroke-width:1.17159915"
+         id="path1494"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 20.386189,1.0692419 c -1.98405,0 -3.226399,1.330426 -3.226399,3.4628161 0,2.1277545 1.242349,3.4581805 3.226399,3.4581805 1.979415,0 3.226399,-1.330426 3.226399,-3.4581805 0,-2.1323901 -1.246984,-3.4628161 -3.226399,-3.4628161 z m 0,1.1681789 c 1.094009,0 1.793989,0.8900411 1.793989,2.2946372 0,1.3999604 -0.69998,2.2853659 -1.793989,2.2853659 -1.098644,0 -1.798624,-0.8854055 -1.798624,-2.2853659 0,-1.4045961 0.704615,-2.2946372 1.798624,-2.2946372 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.49377155px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';fill:#333333;fill-opacity:1;stroke-width:1.17159915"
+         id="path1496"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 31.590509,7.8743477 V 1.1851327 H 29.968038 L 28.06743,5.9273828 H 28.03034 L 26.129736,1.1851327 h -1.622471 v 6.689215 H 25.75425 V 3.3592434 h 0.03709 l 1.817167,4.4502055 h 0.88077 l 1.817167,-4.4502055 h 0.03708 v 4.5151043 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.49377155px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';fill:#333333;fill-opacity:1;stroke-width:1.17159915"
+         id="path1498"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 37.028104,6.71544 H 34.103021 V 1.1851327 H 32.70306 v 6.689215 h 4.325044 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.49377155px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display Bold';fill:#333333;fill-opacity:1;stroke-width:1.17159915"
+         id="path1500"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>

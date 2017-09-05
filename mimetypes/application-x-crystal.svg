@@ -13,9 +13,9 @@
    height="48"
    id="svg4152"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    viewBox="0 0 48 48"
-   sodipodi:docname="text-x-generic.svg">
+   sodipodi:docname="application-x-crystal.svg">
   <defs
      id="defs4154">
     <filter
@@ -169,6 +169,19 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sccssssss" />
     </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7663"
+       x="-0.068333212"
+       width="1.1366664"
+       y="-0.068466919"
+       height="1.1369338">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.9333806"
+         id="feGaussianBlur7665" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -178,19 +191,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.098901"
-     inkscape:cx="-8.5369881"
-     inkscape:cy="26.532698"
-     inkscape:current-layer="layer1"
+     inkscape:cx="27.323256"
+     inkscape:cy="26.034472"
+     inkscape:current-layer="g4596"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1012"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1">
+     inkscape:window-width="1487"
+     inkscape:window-height="986"
+     inkscape:window-x="743"
+     inkscape:window-y="1091"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid4700"
@@ -242,5 +255,32 @@
        rx="2"
        ry="2"
        clip-path="url(#clipPath4268)" />
+    <g
+       id="g4596"
+       transform="matrix(0.13546203,0,0,0.13546203,11.08176,-14.260282)"
+       style="stroke:none;stroke-opacity:0.01581028">
+      <path
+         d="m 165.4,122 -50,49.9 c -0.2,0.2 -0.5,0.3 -0.7,0.2 L 46.4,153.8 c -0.3,-0.1 -0.5,-0.3 -0.5,-0.5 L 27.5,85.1 c -0.1,-0.3 0,-0.5 0.2,-0.7 l 50,-49.9 c 0.2,-0.2 0.5,-0.3 0.7,-0.2 l 68.3,18.3 c 0.3,0.1 0.5,0.3 0.5,0.5 l 18.3,68.2 c 0.2,0.3 0.1,0.5 -0.1,0.7 z M 98.4,67.7 31.3,85.6 c -0.1,0 -0.2,0.2 -0.1,0.3 l 49.1,49 c 0.1,0.1 0.3,0.1 0.3,-0.1 l 18,-67 c 0.1,0 -0.1,-0.2 -0.2,-0.1 z"
+         id="path4590"
+         inkscape:connector-curvature="0"
+         style="stroke:none;stroke-opacity:0.38671875;" />
+      <g
+         id="g4594"
+         style="stroke:none;stroke-opacity:0.01581028">
+        <rect
+           class="st0"
+           width="193.2"
+           height="206.7"
+           id="rect4592"
+           x="0"
+           y="0"
+           style="fill:none;stroke:none;stroke-opacity:0.01581028" />
+      </g>
+      <path
+         style="stroke:none;stroke-opacity:0.38671875;opacity:0.507;filter:url(#filter7663)"
+         inkscape:connector-curvature="0"
+         id="path5221"
+         d="m 165.4,122 -50,49.9 c -0.2,0.2 -0.5,0.3 -0.7,0.2 L 46.4,153.8 c -0.3,-0.1 -0.5,-0.3 -0.5,-0.5 L 27.5,85.1 c -0.1,-0.3 0,-0.5 0.2,-0.7 l 50,-49.9 c 0.2,-0.2 0.5,-0.3 0.7,-0.2 l 68.3,18.3 c 0.3,0.1 0.5,0.3 0.5,0.5 l 18.3,68.2 c 0.2,0.3 0.1,0.5 -0.1,0.7 z M 98.4,67.7 31.3,85.6 c -0.1,0 -0.2,0.2 -0.1,0.3 l 49.1,49 c 0.1,0.1 0.3,0.1 0.3,-0.1 l 18,-67 c 0.1,0 -0.1,-0.2 -0.2,-0.1 z" />
+    </g>
   </g>
 </svg>
