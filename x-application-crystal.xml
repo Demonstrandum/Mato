@@ -1,0 +1,9 @@
+        <?xml version="1.0"?>
+        <mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+          <mime-type type="application/x-crystal">  
+            <comment>Crystal File</comment>
+            
+            <glob pattern=".cr" />
+
+          </mime-type>
+        </mime-info>
